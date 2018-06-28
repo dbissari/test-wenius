@@ -25,7 +25,7 @@ ___
 * [Composer](https://getcomposer.org/download/)
 * [Bower](https://bower.io/)
     * Peut nécessiter [npm](https://www.npmjs.com/get-npm)
-* [Droits de l'utilisateur du service apache sur les répertoires de cache et de logs](http://symfony.com/doc/current/setup/file_permissions.html)   
+* [Droits de l'utilisateur du service apache sur les répertoires de cache et de logs](http://symfony.com/doc/2.8/setup/file_permissions.html)   
 
 ___
 
